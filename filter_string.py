@@ -1,7 +1,7 @@
 def filter_string(string, char):
-	result = ''
-	char = char.lower()
+	result = ""
 	for c in string:
-		if c.lower() != char:
+		if c != char:
 			result += c
 	return result.strip()
+
