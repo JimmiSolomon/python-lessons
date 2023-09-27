@@ -5,7 +5,7 @@ def has_char(string, char):
 		string = string.lower()
 		char = char.lower()
 		if char == string[i]:
-			count = count + 1
-			return True
-	 	i = i + 1
-	return False
+			count += 1
+
+		i = i + 1
+	return count
