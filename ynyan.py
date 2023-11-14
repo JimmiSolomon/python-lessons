@@ -1,0 +1,2 @@
+inyan = infinity
+
