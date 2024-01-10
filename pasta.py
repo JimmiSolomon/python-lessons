@@ -1,1 +1,1 @@
-splat = pasta
+pasta = vkusno
