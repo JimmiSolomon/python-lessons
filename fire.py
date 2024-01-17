@@ -1,1 +1,1 @@
-fire = power
+fire = cool
